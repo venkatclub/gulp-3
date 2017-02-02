@@ -26,7 +26,7 @@ create / eidt gulpfile.js
 
 and run the tasks, watch ...
 
-gulp     -- this will run gulp task default one ..
+gulp    -> this will run gulp task default one ..
 
 gulp sass 
 
@@ -36,6 +36,9 @@ gulp sass2
 gulp watch  
 
 --
+
+similar file like this , with more specific - 
+https://github.com/venkatclub/gulp-3/blob/master/gulp-install.md
 
 Done ! 
 
