@@ -43,3 +43,22 @@ https://github.com/venkatclub/gulp-3/blob/master/gulp-install.md
 Done ! 
 
 Great Day !
+
+
+
+
+--
+
+
+error handle 
+
+.on('error', console.error.bind(console))
+
+
+gulp.task('sass2', function(){
+    return gulp.src('./scss/**/*.scss')
+    .pipe(sass().on('error', console.error.bind(console)))
+    .pipe(gulp.dest('./css'));
+});
+
+
