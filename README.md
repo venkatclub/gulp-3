@@ -6,17 +6,17 @@ bootstrap , sass  watch with gulp ..
 
 --
 
-npm init 
+```npm init``` 
 
-npm install  ( if Dependencies added )
+```npm install```  ( if Dependencies added )
 
-npm install gulp --save-dev
+```npm install gulp --save-dev```
 
-npm install gulp-sass --save-dev
+```npm install gulp-sass --save-dev```
 
-npm install gulp-watch --save-dev
+```npm install gulp-watch --save-dev```
 
-npm install bootstrap@4.0.0-alpha.6  --save-dev   ( change the version if needed..)
+```npm install bootstrap@4.0.0-alpha.6  --save-dev```   ( change the version if needed..)
 
 
 
