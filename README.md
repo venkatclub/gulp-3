@@ -1,7 +1,8 @@
 # gulp-3
-gulp - npm, scss 
 
-bootstrap , sass  watch with gulp ..
+**gulp - npm, scss** 
+
+**bootstrap , sass  watch with gulp ..**
 
 
 --
